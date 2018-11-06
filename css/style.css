@@ -1,0 +1,12 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:13px solid green;
+    background: transparent;
+}
